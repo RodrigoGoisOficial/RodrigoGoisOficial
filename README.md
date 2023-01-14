@@ -9,7 +9,7 @@
 </br>
 <div >
   <a href="https://github.com/RodrigoGoisOficial">
-   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodrigoGoisOficial&&show_icons=true&theme=aura&include_all_commits=true" />
+   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodrigoGoisOficial&&show_icons=true&theme=aura&include_all_commits=true" /> &ensp;
    <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodrigoGoisOficial&layout=compact&langs_count=7&theme=aura" />
   </a>
 </div>  
